@@ -1,12 +1,8 @@
 ---
+title: Experiment list
 layout: page
 full_logo: true
-date:   2020-07-01
-updated: 2021-02-04
 pin: true
-tags: [docs,]
-splash_img_source: /assets/img/pf-github-screenshot.png
-splash_img_caption: Pudhina Fresh on GitHub.
 output:
   html_document:
     toc: yes
