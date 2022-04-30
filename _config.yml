@@ -60,5 +60,38 @@ plugins:
 
 markdown: kramdown
 
+
+defaults: # Recommended defaults, you may set your own
+  -
+    scope:
+      path: _posts
+    values:
+      comments: true
+  -
+    scope:
+      path: pages/redirects
+    values:
+      layout: redirect
+      index: false
+      listed: false
+  -
+    scope:
+      path: pages/tags
+    values:
+      layout: tag
+      sitemap:
+        priority: 0.4
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: true
+  profile: false
+  startings: [html, head, body]
+
+
 dark_mode: true # Dark mode icon
 project_card_style: modal # Choose from masonry, modal, and flat

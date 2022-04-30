@@ -11,7 +11,12 @@ output:
 
 The Retroviridae viral family is well-known due to the HIV, etiological agent of the pandemic acquired immunodeficiency syndrome (AIDS). In particular, five serogroups are recognized in the Lentivirus genus and cause persistent chronic infections in their associated vertebrate hosts, like primates, sheep and goats, horses, cats, and cattle. HIV is most closely related to the SIV, arising from cross-species transmission of SIV from African nonhuman primates (NHPs) to humans. The viral particle has an enveloped spherical structure with a diameter between 100 and 180 nm. The envelope is composed of a lipid bilayer, which contains several surface proteins, some of which are produced by the virus, such as *gp120* and *gp41*, and others of host origin. They are complex viruses with two copies of a **ssRNA(+)** genome of 9,75 Kb with a 5'-cap and a 3'-poly-A tail. The viral genome contains nine genes that encode 15 different proteins, plus two long terminal repeats (LTR) flanking it. Through the action of the reverse transcriptase (RT) enzyme, the virus transforms its genetic material into DNA and stably integrates it into the host genome.
 
+<br>
 
+<img src="/assets/img/HI-virion-structure_en.png" width="600" align="middle" />
+<figcaption>Figure 1: virion structure. Source: wikimedia commons: https://commons.wikimedia.org/wiki/File:HI-virion-structure_en.svg </figcaption>
+
+<br>
 
 The gastrointestinal tract-associated lymphoid tissue (GALT) is the major target for the virus in the **acute phase** of infection, where there is massive viral replication and a significant decrease in active **CD4+ T cells**. These cells are destroyed by cytopathic effects or indirect mechanisms of apoptosis and the impact of these events on the GALT and adjacent lymphoid tissues are determinant in the progression of the disease. Indeed, infected cells can be destroyed through massive viral replication or enter a latent infection stage, where resting cells become permanent viral reservoirs.
 
