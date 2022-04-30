@@ -1,0 +1,325 @@
+@charset "UTF-8";
+
+
+ qa {
+  color: #57a;
+  text-decoration: none;
+}
+
+p,
+ul,
+ol,
+dl {
+  font-size: 16pt;
+  line-height: 32px;
+  font-family: Calibri, sans-serif;
+  text-align: justify;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #212529;
+  padding-top: 20px;
+  font-weight: 500;
+}
+
+img {
+  border-radius: 0.25rem;
+  display: block;
+  max-width: 100%;
+}
+
+code {
+  font-size: 90%;
+  border-radius: 3px;
+  padding: 2px 4px;
+  background: #f0f0f0;
+  color: #444;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 1em 10px 0.1em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+.wrapper {
+  max-width: 80%;
+  margin: 60px auto;
+}
+
+.post_wrapper {
+  max-width: 80%;
+  max-width: 800px;
+  margin: 60px auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  border: 1px solid #dee2e6;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+/*  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+*/
+/* =Header */ /*************************************************************/
+.header {
+  overflow: hidden;
+}
+
+.navigation {
+  float: left;
+}
+
+.logo,
+a.logo:hover {
+  font-size: 300%;
+  font-weight: 700;
+  color: #16a085; /* verde, mas o logo foi removido */
+  display: block;
+  text-decoration: none;
+}
+
+.menu {
+  color: #828282;
+  font-size: 150%;
+  margin: 0px;
+  margin-top: 6px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+.menu__entry {
+  display: inline-block;
+  margin-right: 35px;
+}
+.menu__entry:last-child {
+  margin-right: 0px;
+}
+
+.menu__entry a {
+  font-weight: 400;
+  color: #cb3932; /* #cc4125ff;  MENU VERMELHO */
+}
+
+.social-links {
+  float: right;
+  font-size: 150%;
+  color: #828282;
+  list-style-type: none;
+}
+
+.social-links__entry {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+/* =Titles */ /*************************************************************/
+.page-title {
+  margin: 30px auto;
+  text-align: center;
+}
+
+.page-title__text {
+  font-weight: 700;
+  font-size: 120%;
+}
+
+.page-title__subtitle {
+  font-weight: 400;
+  font-size: 60%;
+  color: #828282;
+}
+
+/* =Post teasers */ /*************************************************************/
+.list-posts {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.post-teaser {
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.post-teaser__title {
+  font-size: 100%;
+  color: #828282;
+}
+
+.post-teaser__date {
+  font-size: 100%;
+  float: right;
+  vertical-align: middle;
+  color: #828282;
+}
+
+.post-teaser__month {
+  width: 100%;
+  text-align: center;
+}
+
+.empty-post-list {
+  font-size: 150%;
+  font-weight: 700;
+  color: #333333;
+  text-align: center;
+}
+
+/* =Post page */ /*************************************************************/
+.post-title {
+  text-align: left;
+}
+
+.post-title__text {
+  font-weight: 700;
+  font-size: 100%;
+}
+
+.post-title__subtitle {
+  font-weight: 500;
+  font-size: 100%;
+  color: #828282;
+}
+
+.about {
+  color: #828282;
+  text-align: center;
+  line-height: 24px;
+}
+
+.about__devider {
+  font-size: 150%;
+  letter-spacing: 9.09px;
+  text-indent: 9.09px;
+}
+
+.about__text {
+  font-size: 100%;
+}
+
+.center-text {
+  text-align: center;
+}
+
+/* =Page navigation */ /*************************************************************/
+.PageNavigation {
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+/* =Main Page */ /*************************************************************/
+.about-img {
+  border-radius: 0.25rem;
+  max-width: 125px;
+  margin: auto;
+  margin-bottom: 3%;
+}
+
+.describe-text {
+  color: #565656;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 130%;
+}
+
+/* =Small screen */ /*************************************************************/
+@media (max-width: 600px) {
+  p,
+  ul,
+  ol,
+  dl {
+    font-size: 100%;
+    line-height: 1.6;
+  }
+
+  .wrapper {
+    width: 90%;
+    margin: 15px auto;
+  }
+
+  .navigation,
+  .social-links {
+    display: block;
+    text-align: right;
+    width: 100%;
+  }
+
+  .social-links {
+    font-size: 200%;
+    margin: 10px auto;
+  }
+
+  .page-title {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+}
+
+.card .btn {
+  position: relative;
+  z-index: 2;
+}
+
+.card .badge {
+  position: relative;
+  z-index: 2;
+}
+
+/* Card hover effect */
+.card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.splash-img {
+  filter: brightness(98%);
+}
+
+.caption {
+  text-align: center;
+}
+
+.post-card-image {
+  border-radius: 0.25rem;
+  width: 100%;
+  height: 100%;
+  filter: brightness(96%);
+  object-fit: cover;
+}
+
+.go-home {
+  text-align: center;
+}
+
+.darkmode-layer {
+  z-index: 2000;
+}
+
