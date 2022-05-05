@@ -1,7 +1,6 @@
 ---
 title: "SIV and HIV"
 layout: page
-full_logo: true
 output:
   html_document:
     toc: yes

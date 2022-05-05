@@ -1,5 +1,5 @@
 ---
-#title: About HIHISIV database
+title: About HIHISIV database
 layout: page
 full_logo: true
 output:
