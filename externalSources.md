@@ -1,4 +1,5 @@
 ---
+title: 
 layout: page
 full_logo: true
 ---
