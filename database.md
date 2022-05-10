@@ -1,5 +1,6 @@
 ---
 title: ""
 layout: page
-redirect: http://hihisiv.lncc.br/
 ---
+
+Redirect to [hihisiv database here]( http://hihisiv.lncc.br/)
