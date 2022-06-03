@@ -3,7 +3,7 @@ title: ""
 layout: page
 full_logo: true
 ---
-teste
+
 # Drugs, resistance and treatment
 * [Drug Database](https://clinicalinfo.hiv.gov/en/drugs){:target="_blank"}
 * [HIV drug resistance database](https://hivdb.stanford.edu/){:target="_blank"}
