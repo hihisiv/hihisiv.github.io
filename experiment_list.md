@@ -13,7 +13,7 @@ output:
 
 | Original_id                                                                 | Experiment / Download                                                                   | Design                                                       | Tissue               | N_samples |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------|-----------|
-| [GSE6740](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6740)       | [GSE6740_CD4-acute_CD8-acute]                            | CD4 acute vs CD8 acute                                       | Blood CD4+/CD8+      | 10        |
+| [GSE6740](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6740)       | [GSE6740_CD4-acute_CD8-acute_teste]                            | CD4 acute vs CD8 acute                                       | Blood CD4+/CD8+      | 10        |
 | [GSE6740](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6740)       | [GSE6740_CD4-chronic_CD8-chronic]                        | CD4 chronic vs CD8 chronic                                   | Blood CD4+/CD8+      | 10        |
 | [GSE6740](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6740)       | [GSE6740_CD4-uninfected_CD8-uninfected]                  | CD4 uninfected vs CD8 uninfected                             | Blood CD4+/CD8+      | 10        |
 | [GSE6740](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6740)       | [GSE6740_CD4-nonProgressor_CD8-nonProgressor]            | CD4 non-progressor vs CD8 non-progressor                     | Blood CD4+/CD8+      | 10        |
