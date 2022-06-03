@@ -1,5 +1,5 @@
 ---
-title: Experiment list
+title: ""
 layout: page
 full_logo: true
 pin: true

@@ -18,7 +18,7 @@ sitemap:
 
 In the battle of the host against lentiviral pathogenesis, the immune response is crucial. However, several questions remain unanswered about the interaction with different viruses and their influence on disease progression. The simian immunodeficiency virus (SIV) infecting nonhuman primates (NHP) is widely used as a model for the study of the human immunodeficiency virus (HIV). They share physiological and anatomical similarities that are largely explored to understand pathogenic and non-pathogenic disease progression.
 
-The `HIHISIV` database was developed to integrate and evaluate the large number of transcriptional data associated with the presence/absence of the pathogen and the host response. In this way, HIHISIV database support researchers to enhance the knowledge of HIV and SIV with a significant impact on human and animal health.
+The `HIHISIV` database was developed to integrate and evaluate the large number of transcriptional data associated with the presence/absence of the pathogen and the host response. In this way, `HIHISIV` database support researchers to enhance the knowledge of HIV and SIV with a significant impact on human and animal health.
 
 The information was manually collected from published literature and records in the repositories transcriptome data. This database was developed and maintained by Dexl Lab from National Laboratory for Scientific Computing - [LNCC](https://dexl.lncc.br){:target="_blank"} and National Cancer Institute - [INCA](https://inca.gov.br){:target="_blank"}. 
 
