@@ -20,7 +20,7 @@ In the battle of the host against lentiviral pathogenesis, the immune response i
 
 The `HIHISIV` database was developed to integrate and evaluate the large number of transcriptional data associated with the presence/absence of the pathogen and the host response. In this way, `HIHISIV` database support researchers to enhance the knowledge of HIV and SIV with a significant impact on human and animal health.
 
-The information was manually collected from published literature and records in the repositories transcriptome data. This database was developed and maintained by Dexl Lab from National Laboratory for Scientific Computing - [LNCC](https://dexl.lncc.br){:target="_blank"} and National Cancer Institute - [INCA](https://inca.gov.br){:target="_blank"}. 
+The information was manually collected from published literature and records in the repositories transcriptome data. This database was developed and maintained by Dexl Lab from National Laboratory for Scientific Computing - [LNCC](https://dexl.lncc.br){:target="_blank"}. 
 
 <br>
 
@@ -32,8 +32,6 @@ The database paper was published in **BioRxiv**, [DOI: ](www.doi.org.com){:targe
 
 
 - Prof. Dr. Fábio Porto - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
-
-- Prof. Dr. Luiz Gadelha - Friedrich-Schiller-Universität (FSU) Jena, Germany.
 
 - Dr. Marcelo Ribeiro-Alves - Fundação Osvaldo Cruz (Fiocruz), Rio de Janeiro, Brazil.
 
