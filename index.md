@@ -30,19 +30,18 @@ The database paper was published in **BioRxiv**, [DOI: ](www.doi.org.com){:targe
 
 ## TEAM AND CONTACT
 
-<!--
-- Prof. Dr. Fábio Porto - Laboratório Nacional de Computação Científica (LNCC)
 
-- Prof. Dr. Luiz Gadelha - FSU Jena.
+- Prof. Dr. Fábio Porto - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
 
-- Prof. Dr. Mirela D'Arc - UFRJ
+- Prof. Dr. Luiz Gadelha - Friedrich-Schiller-Universität (FSU) Jena, Germany.
 
-- Prof. Dr. Marcelo Soares - INCA/UFRJ
+- Dr. Marcelo Ribeiro-Alves - Fundação Osvaldo Cruz (Fiocruz), Rio de Janeiro, Brazil.
 
-- Dr. Marcelo Ribeiro-Alves - Fiocruz
+- Prof. Dr. Marcelo Soares - Universidade Federal do Rio de Janeiro (UFRJ), Brazil.
 
-- Dr. Raquel L. Costa
--->
+- Prof. Dr. Mirela D'Arc - Universidade Federal do Rio de Janeiro (UFRJ), Brazil.
+
+- Dr. Raquel L. Costa.
 
 
 If you have any question, send us an email to : Raquel L. Costa `quelopes@lncc.br`.
