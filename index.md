@@ -41,18 +41,16 @@ The database paper was published in **BioRxiv**, [DOI: ](www.doi.org.com){:targe
 
 - Prof. Dr. Mirela D'Arc - Universidade Federal do Rio de Janeiro (UFRJ), Brazil.
 
-- Dr. Raquel L. Costa.
+- Dr. Raquel L. Costa - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
 
 
-If you have any question, send us an email to : Raquel L. Costa `quelopes@lncc.br`.
+If you have any question, send us an email to: Raquel L. Costa `quelopes@lncc.br`.
 
 
 ### UPDATES
 
-* `January, 2022`
+* `July, 2022`
   - First update
-  
-* `June, 2022`
 
 
 <br>
