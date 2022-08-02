@@ -32,6 +32,7 @@ The database paper was published in **BioRxiv**, [DOI: ](www.doi.org.com){:targe
 
 
 soon...
+
 <!--
 - Prof. Dr. Fábio Porto - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
 
@@ -44,7 +45,6 @@ soon...
 - Prof. Dr. Mirela D'Arc - Universidade Federal do Rio de Janeiro (UFRJ), Brazil.
 
 - Dr. Raquel L. Costa - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
-
 -->
 
 If you have any question, send us an email to: Raquel L. Costa `quelopes@lncc.br`.
