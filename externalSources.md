@@ -18,7 +18,7 @@ full_logo: true
 # Health and clinic information
 * [HIV/AIDS Surveillance Data Base](https://www.census.gov/data-tools/demo/hiv/#/map){:target="_blank"}
 * [HIV: State Health Facts](https://www.kff.org/state-category/hivaids/){:target="_blank"}
-* [AIDSinfo GAM DB](https://onlinedb.unaids.org/gam/libraries/aspx/home.aspx){:target="_blank"}
-* [REGA HIV SUBTYPING TOOL](https://www.genomedetective.com/app/typingtool/hiv){:target="_blank"}
-* [HIV-RELATED TRAVEL RESTRICTIONS DATABASE](https://www.hivtravel.org/){:target="_blank"}
+* [AIDS info GAM DB](https://onlinedb.unaids.org/gam/libraries/aspx/home.aspx){:target="_blank"}
+* [REGA HIV subtyping tool](https://www.genomedetective.com/app/typingtool/hiv){:target="_blank"}
+* [HIV-Related travel restrictions database](https://www.hivtravel.org/){:target="_blank"}
 

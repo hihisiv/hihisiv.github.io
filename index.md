@@ -45,11 +45,17 @@ The database paper was published in **BioRxiv**, [DOI: ](www.doi.org.com){:targe
 If you have any question, send us an email to: Raquel L. Costa `quelopes@lncc.br`.
 
 
-### UPDATES
+### CHANGELOG
+
+* `January, 2022`
+  - First version 1.0.
 
 * `July, 2022`
-  - First update
-
+  - Second update 1.10;
+  - More datasets included; 
+  - Add query mode "Transcript".
+  
+ 
 
 <br>
 <br>
