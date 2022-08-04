@@ -4,4 +4,4 @@ author:""
 layout: page
 ---
 
-Redirect to [hihisiv here](http://152.70.185.41){:target="_blank"} 
+Redirect to [hihisiv database](https://www.amazon.de/){:target="_blank"} 
