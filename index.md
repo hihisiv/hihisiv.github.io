@@ -7,7 +7,7 @@ sitemap:
   priority: 1.0
 ---
 
-# *The database of the Host Immune Response of SIV and HIV*
+# *The database of the HIV and SIV Host Immune Response*
 
 
 <br>
