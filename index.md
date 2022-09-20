@@ -24,13 +24,11 @@ The information was manually collected from published literature and records in 
 
 <br>
 
-## CITE US
-
-The database paper was published in **BioRxiv**, [DOI: ](www.doi.org.com){:target="_blank"}.
-
-## TEAM AND CONTACT
 
 
+## CONTACT
+
+<!--
 - Prof. Dr. Fábio Porto - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
 
 - Dr. Luiz M. Gadelha - Friedrich-Schiller-Universität Jena, Germany. 
@@ -42,7 +40,7 @@ The database paper was published in **BioRxiv**, [DOI: ](www.doi.org.com){:targe
 - Prof. Dr. Mirela D'Arc - Universidade Federal do Rio de Janeiro (UFRJ), Brazil.
 
 - Dr. Raquel L. Costa - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
-
+-->
 
 If you have any question, send us an email to: Raquel L. Costa `hihisiv@protonmail.com`.
 
