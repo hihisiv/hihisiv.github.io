@@ -2,6 +2,10 @@
 title: 
 layout: page
 full_logo: true
+output:
+  html_document:
+    toc: yes
+    toc_depth: 4
 ---
 
 # Support for the FAIR principles
