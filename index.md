@@ -50,12 +50,12 @@ If you have any question, send an email to: `hihisiv@protonmail.com`.
 * `July, 2023`
   - Second version 2.0
   
-  - package and libraries version
-    - biomart
-    - GEOquery
-    - rols
-    - GOstats
-    - limma
+  - packages and libraries version
+    - `biomart` (Interface to BioMart databases (i.e. Ensembl)): 2.56
+    - `GEOquery` (Get data from NCBI Gene Expression Omnibus, GEO): 2.68.0
+    - `rols` (An R interface to the Ontology Lookup Service): 2.28.0
+    - `GOstats` (Tools for manipulating GO and microarrays): 2.66.0
+    - `limma` (Linear Models for Microarray Data): 3.56.2
     
   
 * `July, 2022`
