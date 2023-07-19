@@ -42,19 +42,21 @@ The information was manually collected from published literature and records in 
 - Dr. Raquel L. Costa - Laboratório Nacional de Computação Científica (LNCC) Petrópolis, Brazil.
 -->
 
-If you have any question, send us an email to: Raquel L. Costa `hihisiv@protonmail.com`.
+If you have any question, send an email to: `hihisiv@protonmail.com`.
 
 
 ### CHANGELOG
 
-* `January, 2022`
-  - First version 1.0.
-
+* `July, 2023`
+  - Second version 2.0
+  
 * `July, 2022`
   - Second update 1.10;
   - More datasets included; 
-  - Add query mode "Transcript".
-  
+  - Added transcripts query module.
+
+* `January, 2022`
+  - First version 1.0
  
 
 <br>
