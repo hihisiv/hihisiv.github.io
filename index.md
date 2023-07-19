@@ -50,6 +50,14 @@ If you have any question, send an email to: `hihisiv@protonmail.com`.
 * `July, 2023`
   - Second version 2.0
   
+  - package and libraries version
+    - biomart
+    - GEOquery
+    - rols
+    - GOstats
+    - limma
+    
+  
 * `July, 2022`
   - Second update 1.10;
   - More datasets included; 
