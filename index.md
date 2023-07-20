@@ -56,7 +56,9 @@ If you have any question, send an email to: `hihisiv@protonmail.com`.
     - `rols` (An R interface to the Ontology Lookup Service): 2.28.0
     - `GOstats` (Tools for manipulating GO and microarrays): 2.66.0
     - `limma` (Linear Models for Microarray Data): 3.56.2
-  - pre-infection -> uninfected  
+  - pre-infection -> uninfected
+  - enrichment analysis, biological process
+  
   
 * `July, 2022`
   - Second update 1.10;
