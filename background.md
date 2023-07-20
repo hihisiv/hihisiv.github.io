@@ -35,7 +35,7 @@ To date, the pathways used by non-pathogenic models to suppress the immune respo
 
 However, much still needs to be clarified, as it is not known what triggers the cascade of events that leads to each of the infection models. The mechanisms that lead to this protection against progression are still unclear, and it is known that generalized immune activation even in the acute phase is directly linked to the pathogenesis of disease progression, correlating inflammation as a reflection of the presence of the virus in the ganglia. In animals used as models for non-pathogenic infection, the virus is not transported to the nodes, which are not infected. However, what blocks the virus from proliferating in this compartment of natural hosts has not yet been identified. Furthermore, restriction factors are key parts in the natural blocking of zoonotic transmissions that require the adaptation of viruses during the passage from one species to another. The study of these molecules can shed light on the evolution of the functioning and defense mechanism for blocking virus proliferation in different animals.
 
-*References*
+**References**
 
 - Coffin J, Blomberg J, Fan H, Gifford R, Hatziioannou T, Lindemann D, et al. ICTV Virus Taxonomy Profile: Retroviridae 2021. J Gen Virol. 2021;102. doi:10.1099/jgv.0.001712
 - Gifford RJ. Viral evolution in deep time: lentiviruses and mammals. Trends Genet. 2012;28: 89–100. doi:10.1016/j.tig.2011.11.003
