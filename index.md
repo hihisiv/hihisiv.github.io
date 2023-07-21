@@ -25,6 +25,10 @@ The information was manually collected from published literature and records in 
 <br>
 
 
+## How to cite HIHISIV
+
+The HIHISIV database has a manuscript describing how data were extracted, analyzed, and stored in the relational database. 
+The manuscript is currently under review.
 
 ## CONTACT
 
