@@ -9,7 +9,7 @@ full_logo: true
 * [HIV drug resistance database](https://hivdb.stanford.edu/){:target="_blank"}
 * [HIV-TRePS: HIV Treatment Response Prediction System](https://www.hivrdi.org/treps/login.php){:target="_blank"}
 
-# Sequences, mutation, 
+# Sequences, mutation
 * [The Los Alamos HIV sequence database](http://www.hiv.lanl.gov/){:target="_blank"}
 * [Retroviruses database](https://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/){:target="_blank"}
 * [HIV mutation browser](https://hivmut.org/){:target="_blank"}
