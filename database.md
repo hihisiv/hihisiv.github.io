@@ -2,6 +2,7 @@
 title: ""
 author:""
 layout: page
+pin: true
 ---
 
-Redirect to [hihisiv database](http://152.70.185.41){:target="_blank"} 
+[HIHISIV database](http://152.70.185.41){:target="_blank"} 
