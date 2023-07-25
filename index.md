@@ -7,7 +7,7 @@ sitemap:
   priority: 1.0
 ---
 
-# *The database of gene expression in HIV and SIV host immune response.*
+# *The database of gene expression in HIV and SIV host immune response*
 
 
 <br>
