@@ -9,7 +9,5 @@ output:
     toc_depth: 4
 ---
 
-<a href="http://152.70.185.41" target="_blank">database</a>
 
-
-
+[HIHISIV database](http://152.70.185.41){:target="_blank"} 
