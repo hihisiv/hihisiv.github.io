@@ -55,13 +55,18 @@ If you have any question, send an email to: `hihisiv@protonmail.com`.
   - Second version 2.0
   
   - packages and libraries version
+    - `affy` (Methods for Affymetrix Oligonucleotide Arrays): 1.78.2
     - `biomart` (Interface to BioMart databases (i.e. Ensembl)): 2.56
     - `GEOquery` (Get data from NCBI Gene Expression Omnibus, GEO): 2.68.0
     - `rols` (An R interface to the Ontology Lookup Service): 2.28.0
     - `GOstats` (Tools for manipulating GO and microarrays): 2.66.0
     - `limma` (Linear Models for Microarray Data): 3.56.2
+    - `GenomicFeatures` (Conveniently import and query gene models): 1.52.1
+
   - pre-infection -> uninfected
-  - enrichment analysis, biological process
+  - add enrichment analysis (biological process, GO)
+  - new table: ontologies from metadata 
+  - database schema renewed
   
   
 * `July, 2022`
