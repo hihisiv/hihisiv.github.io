@@ -39,7 +39,7 @@ Instead of the query by gene symbol or Entrez gene id, the user can be intereste
 
 This mode provides mappings between Entrez gene id and the GO identifiers that they are directly associated with. The example below shows the selected BP term by GO term `response to the virus` with threshold adjusted p-value <= 0.05 and log-FC >= 1. 
 
-![Example in Query type `Gene Ontology`.](assets/img/query_go.png)
+![Example in Query type `Gene Ontology`.](assets/img/query_go-bp.png)
 
 
 <!---
@@ -61,7 +61,8 @@ In this module interface is possible to select genes that play fundamental roles
 This query mode represents the genes that were co-expressed with a target gene selected. 
 In the example below, the *GZMA* gene was selected (adjusted p-value =< 0.05 and log-FC = 1.5) and the result shows a set of genes co-expressed with *GZMA* in different experiments (ex: *PECAM1*, *NOX1*, *CCL5*, and *KDELR2*). The thickness of the connections between genes depends on the number of co-expressed experiments that the target gene has with the resulting gene. In this example, the *PECAM1* gene is co-expressed with the *GZMA* gene in several experiments. The result of the query can be visualized as a graph representing the gene co-expression network as well as a tabular format.  
 
-![Example in Query type `Single gene co-expression network`.](assets/img/query_single_co-expression.png)
+![Example in Query type `Single gene co-expression network`.](assets/img/query_single_co-expression_1.png)
+![](assets/img/query_single_co-expression_2.png)
 
 
 <!---
@@ -71,4 +72,5 @@ In the example below, the *GZMA* gene was selected (adjusted p-value =< 0.05 and
 
 In this query mode instead of one gene a set of genes can be entered and the result shows a network where the genes connected were co-expressed in one or more experiments. In the example of Figure 9, the parameters adjusted p-value =< 0.01 and log-FC = 1 were applied and the follow Entrez gene id with the respective genes symbol were selected:  891 (*CCNB1*); 890 (*CCNA2*); 9289 (*ADGRG1*); 8892 (*EIF2B2*); 1894 (*ECT2*); 1890 (*TYMP*); 79898 (*ZNF613*); 56895 (*AGPAT4*); 55789 (*DEPDC1B*); 1263 (*PLK3*) and 332 (*BIRC5*). In this mode, it is also possible to visualize the connections from PPI where the edges are represented in red.
 
-![Example in Query type `Gene set co-expression network`.](assets/img/query_set_co-expression.png)
+![Example in Query type `Gene set co-expression network`.](assets/img/query_set_co-expression_1.png)
+![Example in Query type `Gene set co-expression network`.](assets/img/query_set_co-expression_2.png)
