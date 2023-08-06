@@ -15,9 +15,9 @@ HIHISIV can be queried through a web interface in which the user can configure a
 <!---
 === GENE ===
 --->
-### Gene
+### Genes
 
-In this mode, the user can select the conditions under which a gene of interest shows differential expression. As an example, Figure 4 presents the results for the gene `*USP18*`, (Ubiquitin specific peptidase 18) that belongs to the ubiquitin-specific proteases (UBP). The USP18 gene and its protein product, *USP18*, are known to be involved in the innate immune response to viral infections, particularly in response to type I interferons, which are cytokines produced by the body during viral infections. The applied thresholds for differential expression analysis were adjusted p-value (adj_pvalue) $<= 0.05$ and $|log-FC| > 1$. The results show this gene was DE in seven experiments, for example in the comparison reshus uninfected versus acute infection (GSE16147_d5, GSE17626_d1, GSE61766_d1), humans uninfected versus acute infection (GSE6740_d18) and human non-progressor versus acute infection (GSE6740_d21).
+In this mode, the user can select the conditions under which a gene of interest shows differential expression. As an example, the figure below presents the results for the gene `*USP18*`, (Ubiquitin specific peptidase 18) that belongs to the ubiquitin-specific proteases (UBP). The USP18 gene and its protein product, *USP18*, are known to be involved in the innate immune response to viral infections, particularly in response to type I interferons, which are cytokines produced by the body during viral infections. The applied thresholds for differential expression analysis were adjusted p-value (adj_pvalue) $<= 0.05$ and $\|log-FC\| > 1$. The results show this gene was DE in seven experiments, for example in the comparison reshus uninfected *versus* acute infection (GSE16147_d5, GSE17626_d1, GSE61766_d1), humans uninfected *versus* acute infection (GSE6740_d18) and human non-progressor *versus* acute infection (GSE6740_d21).
 
 ![Example in Query type `Gene`.](assets/img/query_genes.png)
 
@@ -37,7 +37,7 @@ This mode is similar to the previous one, but instead of the querying by gene sy
 --->
 ### Gene Ontology
 
-This mode presents the results of the enrichment for GO terms related to BP for each comparison derived from the DEG analysis. By utilizing this mode, researchers can identify experiments that exhibit enrichment in specific BP terms of interest. For instance, in the figure below, the BP term `cellular response to type II interferon`  (`GO:0071346`) was found enriched in the experiments GSE6740_d1 (CD4+ versus CD8+ in acute infection), GSE6740_d2 (CD4+ versus CD8+ in chronic infection) and GSE13824_d1 (uninfected versus infected). Additionally, this mode provides information about the genes that were enriched within this specific ontology. To ensure statistical robustness, only the results with a significant p-value < 0.001 are displayed in the database.
+This mode presents the results of the enrichment for GO terms related to BP for each comparison derived from the DEG analysis. By utilizing this mode, researchers can identify experiments that exhibit enrichment in specific BP terms of interest. For instance, in the figure below, the BP term `cellular response to type II interferon` (`GO:0071346`) was found enriched in the experiments GSE6740_d1 (CD4+ *versus* CD8+ in acute infection), GSE6740_d2 (CD4+ *versus* CD8+ in chronic infection) and GSE13824_d1 (uninfected *versus* infected). Additionally, this mode provides information about the genes that were enriched within this specific ontology. To ensure statistical robustness, only the results with a significant p-value < 0.001 are displayed in the database.
 
 ![Example in Query type `Gene Ontology`.](assets/img/query_go-bp.png)
 
@@ -47,7 +47,7 @@ This mode presents the results of the enrichment for GO terms related to BP for 
 --->
 ### Ontology terms
 
-By integrating ontology terms with the experimental information, our approach provided a comprehensive understanding of the underlying biological contexts and enriched the dataset's metadata with valuable semantic annotations. In the 'Ontology term' mode the example below shows the experiment associated with the term `Encephalitis` (project GSE13824).
+By integrating ontology terms with the experimental information, our approach provided a comprehensive understanding of the underlying biological contexts and enriched the dataset's metadata with valuable semantic annotations. In the 'Ontology te´rm' mode the example below shows the experiment associated with the term `Encephalitis` (project GSE13824).
 
 
 
