@@ -16,7 +16,11 @@ The FAIR principles [[1](https://www.nature.com/articles/sdata201618)] are consi
 
 
 
+# Extra dataset
 
+Results of differential gene expression analysis in SIV infection in *Chlorocebus sabaeus* and *Macaca mulatta* 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8219165.svg)](https://doi.org/10.5281/zenodo.8219165).
+From the transcriptome data repository MACE (http://mace.ihes.fr)
 
 
 
