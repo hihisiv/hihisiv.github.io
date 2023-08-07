@@ -49,6 +49,7 @@ This mode presents the results of the enrichment for GO terms related to BP for 
 
 By integrating ontology terms with the experimental information, our approach provided a comprehensive understanding of the underlying biological contexts and enriched the dataset's metadata with valuable semantic annotations. In the 'Ontology term' mode the example below shows the experiment associated with the term `Encephalitis` (project GSE13824).
 
+![Example in Query type `Gene Ontology`.](assets/img/query_ontology_terms.png)
 
 
 <!---
