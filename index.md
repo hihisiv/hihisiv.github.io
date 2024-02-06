@@ -30,7 +30,7 @@ The information was manually collected from published literature and records in 
 The HIHISIV database has a manuscript describing how data were extracted, analyzed, and stored in the relational database. 
 The manuscript is currently under review.
 
-Preprint is available at: [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.25.568664v1)
+Preprint is available at: [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.25.568664v1){:target="_blank"}
 
 ## CONTACT
 
