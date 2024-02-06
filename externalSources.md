@@ -16,7 +16,7 @@ full_logo: true
 * [HIV mutation browser](https://hivmut.org/){:target="_blank"}
 * [HIV-Grade](https://www.hiv-grade.de/cms/grade/homepage/){:target="_blank"}
 * [Patterns of Expression and Analysis of Clusters of HIV/Host interactions](https://peachi.unil.ch/){:target="_blank"}
-* [Latent Infection of T Cells by HIV LITCHi](https://litchi.unil.ch/){:target="_blank"}
+* [LITCHi: Latent Infection of T Cells by HIV](https://litchi.unil.ch/){:target="_blank"}
 
 
 # Health and clinic information
