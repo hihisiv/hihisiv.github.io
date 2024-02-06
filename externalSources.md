@@ -8,8 +8,7 @@ full_logo: true
 * [Drug Database](https://clinicalinfo.hiv.gov/en/drugs){:target="_blank"}
 * [HIV drug resistance database](https://hivdb.stanford.edu/){:target="_blank"}
 * [HIV-TRePS: HIV Treatment Response Prediction System](https://www.hivrdi.org/treps/login.php){:target="_blank"}
-* [HIVed database](https://hivlatency.erc.monash.edu/i){:target="_blank"}
-* [Latent Infection of T Cells by HIV LITCHi](https://litchi.unil.ch/){:target="_blank"}
+* [HIVed database](https://hivlatency.erc.monash.edu/){:target="_blank"}
 
 # Sequences, mutation and expression
 * [The Los Alamos HIV sequence database](http://www.hiv.lanl.gov/){:target="_blank"}
@@ -17,6 +16,8 @@ full_logo: true
 * [HIV mutation browser](https://hivmut.org/){:target="_blank"}
 * [HIV-Grade](https://www.hiv-grade.de/cms/grade/homepage/){:target="_blank"}
 * [Patterns of Expression and Analysis of Clusters of HIV/Host interactions](https://peachi.unil.ch/){:target="_blank"}
+* [Latent Infection of T Cells by HIV LITCHi](https://litchi.unil.ch/){:target="_blank"}
+
 
 # Health and clinic information
 * [HIV/AIDS Surveillance Data Base](https://www.census.gov/data-tools/demo/hiv/#/map){:target="_blank"}
