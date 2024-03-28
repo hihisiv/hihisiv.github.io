@@ -27,7 +27,7 @@ The information was manually collected from published literature and records in 
 
 ## Publication
 
-Costa, R.L., Gadelha, L., D’arc, M. et al. HIHISIV: a database of gene expression in HIV and SIV host immune response. [BMC Bioinformatics 25](https://rdcu.be/dCKvh), 125 (2024). https://doi.org/10.1186/s12859-024-05740-7.  
+- Costa, R.L., Gadelha, L., D’arc, M. et al. HIHISIV: a database of gene expression in HIV and SIV host immune response. [BMC Bioinformatics 25](https://rdcu.be/dCKvh){:target="_blank"}, 125 (2024). https://doi.org/10.1186/s12859-024-05740-7.  
 
 
 <!--
