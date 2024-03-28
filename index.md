@@ -25,12 +25,18 @@ The information was manually collected from published literature and records in 
 <br>
 
 
-## How to cite HIHISIV
+## Publication
 
+Costa, R.L., Gadelha, L., D’arc, M. et al. HIHISIV: a database of gene expression in HIV and SIV host immune response. [BMC Bioinformatics 25](https://rdcu.be/dCKvh), 125 (2024). https://doi.org/10.1186/s12859-024-05740-7.  
+
+
+<!--
 The HIHISIV database has a manuscript describing how data were extracted, analyzed, and stored in the relational database. 
 The manuscript is currently under review.
 
 Preprint is available at: [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.25.568664v1){:target="_blank"}
+
+-->
 
 ## CONTACT
 
